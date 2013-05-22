@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.3_1" segtype="sentence" srclang="JA"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="JA">
+        <seg>最大規模の被災地、石巻には多くのＮＰＯ、ボランティアが集まりました。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Terence" changedate="20130522T144228Z">
+        <seg>最大規模の被災地、石巻には多くのＮＰＯ、ボランティアが集まりました。****Many volunteers and NPOs gathered at Ishinomaki, one of the largest disaster-stricken areas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>東日本大震災から２年
+石巻災害復興支援協議会
+活動報告書
+3.11
+　未曽有の大災害となった、東日本大震災。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Terence" changedate="20130522T143708Z">
+        <seg>東日本大震災から２年****Two years on from Great East Japan Earthquake
+石巻災害復興支援協議会****Ishinomaki Disaster Recovery Assistance Council
+活動報告書****Activity Report
+3.11****3.11
+未曽有の大災害となった、東日本大震災。****Unprecedented disaster, Great East Japan Earthquake</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
