@@ -94,6 +94,18 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>女川町
+東松島市
+ＮＰＯ：この報告書におけるＮＰＯという単語は、ＮＰＯ法人はもちろん、一般社団法人や、企業のＣＳＲ活動、法人格を持たない任意団体、有志の集まり、ボランティア団体等を含めた広い意味での「非営利団体」を指す用語として使用しています。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Terence" changedate="20130523T211846Z">
+        <seg>女川町****Onagawa Town
+東松島市****Higashi-Matsushima City
+ＮＰＯ：この報告書におけるＮＰＯという単語は、ＮＰＯ法人はもちろん、一般社団法人や、企業のＣＳＲ活動、法人格を持たない任意団体、有志の集まり、ボランティア団体等を含めた広い意味での「非営利団体」を指す用語として使用しています。****NPO: Non-profit Organization referenced here encompasses regular corporations, their CSR activity bodies, volunteer groups, and other organizations without legal status </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>最大規模の被災地、石巻には多くのＮＰＯ、ボランティアが集まりました。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Terence" changedate="20130522T144228Z">
@@ -228,6 +240,14 @@
 石巻災害復興支援協議会活動報告書 3
 石巻災害復興支援協議会活動報告書 4
 1．</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＩＤＲＡＣ：石巻災害復興支援協議会の英語名称（Ishinoamki Disaster Recovery Assistance Council) の略称です。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Terence" changedate="20130523T211909Z">
+        <seg>ＩＤＲＡＣ：石巻災害復興支援協議会の英語名称（Ishinoamki Disaster Recovery Assistance Council) の略称です。****IDRAC: Ishinoamki Disaster Recovery Assistance Council</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
