@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="JA">
+        <seg>『奇跡』と呼んだメディアも。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Terence" changedate="20130523T015410Z">
+        <seg>『奇跡』と呼んだメディアも。****Even the media considers it a miracle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>最大規模の被災地、石巻には多くのＮＰＯ、ボランティアが集まりました。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Terence" changedate="20130522T144228Z">
