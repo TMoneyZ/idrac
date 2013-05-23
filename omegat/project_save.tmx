@@ -8,8 +8,16 @@
       <tuv lang="JA">
         <seg>『奇跡』と呼んだメディアも。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Terence" changedate="20130523T015410Z">
-        <seg>『奇跡』と呼んだメディアも。****Even the media considers it a miracle</seg>
+      <tuv lang="EN-US" changeid="Terence" changedate="20130523T015902Z">
+        <seg>『奇跡』と呼んだメディアも。****Even the media considers it a miracle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>この報告書では、法人としての「石巻災害復興支援協議会」の活動にとどまらず、石巻に集い、連携して支援活動を行ったＮＰＯやボランティアが残した成果を紹介します。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Terence" changedate="20130523T015850Z">
+        <seg>この報告書では、法人としての「石巻災害復興支援協議会」の活動にとどまらず、石巻に集い、連携して支援活動を行ったＮＰＯやボランティアが残した成果を紹介します。****This report will not be limited to the activities of the IDRAC, but rather encompasses the results of many other NPOs and volunteer groups who operated in Ishinomaki. </seg>
       </tuv>
     </tu>
     <tu>
