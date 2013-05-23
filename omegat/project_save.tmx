@@ -6,6 +6,42 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="JA">
+        <seg>(全壊：22,357棟　半壊：11,021棟
+　　　　　　 　一部損壊：20,364棟)
+・浸水面積：73k㎡
+（市内の約13.2%⇒平野部の約30%）
+・災害廃棄物量：445.6万ｔ
+・仮設住宅戸数：7,153戸　6,946戸入居
+　住民数：16,305人
+Ｐ18 参照
+石 巻 市
+石巻市
+宮城県
+福島県
+岩手県
+—2011年3月11日14時46分、東日本大震災　発災—
+　大津波の被害は想像を絶するものとなり、最大規模の被災地となった石巻市の死者・行方不明者は 3,592 名（石巻市発表）におよびます。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Terence" changedate="20130523T162038Z">
+        <seg>(全壊：22,357棟　半壊：11,021棟 ****(Houses Completely Destroyed: 22,357		Houses Half Destroyed: 11,021
+　　　　　　 　一部損壊：20,364棟)****Houses Partially Destroyed: 20,364)
+・浸水面積：73k㎡****Flooded Area: 73k㎡
+（市内の約13.2%⇒平野部の約30%）****(13.2% of City Areas⇒30% of Entire Area)
+・災害廃棄物量：445.6万ｔ****Debris: 4.45 million tons
+・仮設住宅戸数：7,153戸　6,946戸入居****Temporary Houses: 7,153 (6,946 Occupied)
+　住民数：16,305人****Temporary Housing Residents: 16,305
+Ｐ18 参照****Reference pg.18
+石巻市****Ishinomaki
+石巻市****Ishinomaki
+宮城県****Miyagi Prefecture
+福島県****Fukushima Prefecture
+岩手県****Iwate Prefecture
+—2011年3月11日14時46分、東日本大震災　発災—
+　大津波の被害は想像を絶するものとなり、最大規模の被災地となった石巻市の死者・行方不明者は 3,592 名（石巻市発表）におよびます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>■石巻市の被災状況※石巻市発表 2012 年 12 月末現在 )
 ・死者：3,145名　・行方不明者：447名　
 ・被災家屋：53,742棟</seg>
