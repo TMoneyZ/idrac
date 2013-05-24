@@ -88,8 +88,8 @@
       <tuv lang="JA">
         <seg>そして、石巻市災害ボランティアセンターの声掛けにより、3月20日に各団体の活動を情報共有するために「ＮＰＯ・ＮＧＯ連絡会」が始まりました。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Terence" changedate="20130524T033310Z">
-        <seg>そして、石巻市災害ボランティアセンターの声掛けにより、3月20日に各団体の活動を情報共有するために「ＮＰＯ・ＮＧＯ連絡会」が始まりました。****Assembled by the Ishinomaki Volunteer Center, various organizations gathered together for a NPO-NGO coordination conference on March 20th to mutually exchange information</seg>
+      <tuv lang="EN-US" changeid="Terence" changedate="20130524T044927Z">
+        <seg>そして、石巻市災害ボランティアセンターの声掛けにより、3月20日に各団体の活動を情報共有するために「ＮＰＯ・ＮＧＯ連絡会」が始まりました。****Assembled by the Ishinomaki Volunteer Center, various organizations gathered together for a NPO-NGO Coordination Association on March 20th to mutually exchange information</seg>
       </tuv>
     </tu>
     <tu>
@@ -283,6 +283,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Terence" changedate="20130524T034338Z">
         <seg>ＮＰＯ、ボランティアによる連携が目に見える形となったのは、4月10日の街なかスマイルプロジェクト(街なか清掃）。****The first observable result of the inter-organizational coordination was the street cleaning Smile Project on April 10th</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＮＰＯやボランティアは基本的に自主的な活動を行うため、その全体像把握は難しいのですが、石巻では4月2日に「ＮＰＯ・ＮＧＯ連絡会」が「石巻災害復興支援協議会（ＩＤＲＡＣ）」へと名称を変え、5月13日に法人化した以降も、多くの方々の協力によって情報共有の場と連携体制を継続することができました。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Terence" changedate="20130524T044909Z">
+        <seg>ＮＰＯやボランティアは基本的に自主的な活動を行うため、その全体像把握は難しいのですが、石巻では4月2日に「ＮＰＯ・ＮＧＯ連絡会」が「石巻災害復興支援協議会（ＩＤＲＡＣ）」へと名称を変え、5月13日に法人化した以降も、多くの方々の協力によって情報共有の場と連携体制を継続することができました。****An overall picture of the rebuilding effort is difficult with each autonomous NPO/Volunteer group but on April 2nd, </seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
