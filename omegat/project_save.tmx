@@ -42,6 +42,18 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>2 日後
+3 日後
+1-1．</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Terence" changedate="20130524T051440Z">
+        <seg>2 日後****Two days later
+3 日後****Three days later
+1-1．****1-1．</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>■石巻市の被災状況※石巻市発表 2012 年 12 月末現在 )
 ・死者：3,145名　・行方不明者：447名　
 ・被災家屋：53,742棟</seg>
