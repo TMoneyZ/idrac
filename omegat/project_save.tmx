@@ -269,6 +269,14 @@
         <seg>ＩＤＲＡＣ：石巻災害復興支援協議会の英語名称（Ishinoamki Disaster Recovery Assistance Council) の略称です。****IDRAC: Ishinoamki Disaster Recovery Assistance Council</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ＮＰＯ、ボランティアによる連携が目に見える形となったのは、4月10日の街なかスマイルプロジェクト(街なか清掃）。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Terence" changedate="20130524T034338Z">
+        <seg>ＮＰＯ、ボランティアによる連携が目に見える形となったのは、4月10日の街なかスマイルプロジェクト(街なか清掃）。****The first observable result of the inter-organizational coordination was the street cleaning Smile Project on April 10th</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
