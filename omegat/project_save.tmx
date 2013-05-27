@@ -42,6 +42,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>1-2．</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Terence" changedate="20130527T051329Z">
+        <seg>1-2．****1-2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>2 日後
 3 日後
 1-1．</seg>
@@ -431,6 +439,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Terence" changedate="20130527T050132Z">
         <seg>３）特に平成23年3月は人数報告のシステムが確立していなかったため、把握できる範囲でしか集計できていない。****In the March 2011 period before the numbers reporting system were established, it was not possible to gather these numbers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>４）ＮＰＯの有給スタッフ分を活動人数に含めて報告するかどうかは団体の判断によっている。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Terence" changedate="20130527T051259Z">
+        <seg>４）ＮＰＯの有給スタッフ分を活動人数に含めて報告するかどうかは団体の判断によっている。It was left to the discretion of each NPO whether to include their paid staff within the reported volunteer numbers</seg>
       </tuv>
     </tu>
     <tu>
