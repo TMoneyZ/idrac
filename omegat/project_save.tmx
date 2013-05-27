@@ -209,6 +209,16 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>注記事項
+１）ＩＤＲＡＣに登録していても全体会やメールでの報告のない団体については、カウントしていない。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Terence" changedate="20130527T043203Z">
+        <seg>注記事項****Annotated Items
+１）ＩＤＲＡＣに登録していても全体会やメールでの報告のない団体については、カウントしていない。****Organzations not registered or not having reported by email or at the "All Organization Conference" were not accounted for</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>津波によって失われたものの大きさは、語る言葉も見つからないほどで、一人の人間に出来ることは限りなく小さく思えました。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Terence" changedate="20130523T034103Z">
