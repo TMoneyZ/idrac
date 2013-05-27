@@ -277,6 +277,16 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>石巻災害復興支援協議会の受入人数算出根拠
+１）全体会で報告された各分科会の活動人数を集計し、分科会に該当しない活動を行っている大規模団体からの別途報告を加算したもの。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Terence" changedate="20130527T041945Z">
+        <seg>石巻災害復興支援協議会の受入人数算出根拠****Basis for calculating IDRAC participant numbers
+１）全体会で報告された各分科会の活動人数を集計し、分科会に該当しない活動を行っている大規模団体からの別途報告を加算したもの。****The aggregate total from the numbers reported from each specialization section during the "All Organization Conference" -numbers from large organizations that did not participate in specialization sections were also included</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>石巻災害復興支援協議会活動報告書 5
 　震災直後から、災害支援経験豊富なＮＰＯが石巻に徐々に集まり、物資配布、炊出し、泥出しなどの活動が始まりました。</seg>
       </tuv>
