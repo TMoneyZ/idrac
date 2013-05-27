@@ -411,6 +411,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>２）初期にＶＣ経由でＮＰＯへ派遣された場合にＶＣ活動人数　と重複があったが、可能な範囲で修正。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Terence" changedate="20130527T044141Z">
+        <seg>２）初期にＶＣ経由でＮＰＯへ派遣された場合にＶＣ活動人数　と重複があったが、可能な範囲で修正。****Numbers of those initially dispatched through VCs to NPOs may have been double-counted and were corrected in applicable cases </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>２）ＮＰＯからの報告・訂正により、全体会議事録や災害対策本部への実績報告とは誤差がある。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Terence" changedate="20130527T042311Z">
