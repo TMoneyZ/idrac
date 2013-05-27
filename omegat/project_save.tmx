@@ -212,9 +212,9 @@
         <seg>注記事項
 １）ＩＤＲＡＣに登録していても全体会やメールでの報告のない団体については、カウントしていない。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Terence" changedate="20130527T043203Z">
+      <tuv lang="EN-US" changeid="Terence" changedate="20130527T045905Z">
         <seg>注記事項****Annotated Items
-１）ＩＤＲＡＣに登録していても全体会やメールでの報告のない団体については、カウントしていない。****Organzations not registered or not having reported by email or at the "All Organization Conference" were not accounted for</seg>
+１）ＩＤＲＡＣに登録していても全体会やメールでの報告のない団体については、カウントしていない。****Organizations not registered or not having reported by email or at the "All Organization Conference" were not accounted for</seg>
       </tuv>
     </tu>
     <tu>
@@ -423,6 +423,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Terence" changedate="20130527T042311Z">
         <seg>２）ＮＰＯからの報告・訂正により、全体会議事録や災害対策本部への実績報告とは誤差がある。****Depending on reports or amendments from NPOs, the actual numbers reported to "All Organization Conference" and Disaster Response HQ may have some error</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>３）特に平成23年3月は人数報告のシステムが確立していなかったため、把握できる範囲でしか集計できていない。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Terence" changedate="20130527T045858Z">
+        <seg>３）特に平成23年3月は人数報告のシステムが確立していなかったため、把握できる範囲でしか集計できていない。****In the March 2011 period before the numbers reporting system  were established, it was impossible to </seg>
       </tuv>
     </tu>
     <tu>
