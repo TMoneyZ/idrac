@@ -280,9 +280,9 @@
         <seg>石巻災害復興支援協議会の受入人数算出根拠
 １）全体会で報告された各分科会の活動人数を集計し、分科会に該当しない活動を行っている大規模団体からの別途報告を加算したもの。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Terence" changedate="20130527T041945Z">
+      <tuv lang="EN-US" changeid="Terence" changedate="20130527T042111Z">
         <seg>石巻災害復興支援協議会の受入人数算出根拠****Basis for calculating IDRAC participant numbers
-１）全体会で報告された各分科会の活動人数を集計し、分科会に該当しない活動を行っている大規模団体からの別途報告を加算したもの。****The aggregate total from the numbers reported from each specialization section during the "All Organization Conference" -numbers from large organizations that did not participate in specialization sections were also included</seg>
+１）全体会で報告された各分科会の活動人数を集計し、分科会に該当しない活動を行っている大規模団体からの別途報告を加算したもの。****The aggregate total from the numbers reported from each specialization section during the "All Organization Conference" -numbers were also included from large organizations reporting at a separate conference (those that did not participate in specialization sections)</seg>
       </tuv>
     </tu>
     <tu>
@@ -397,6 +397,14 @@
 石巻災害復興支援協議会活動報告書 3
 石巻災害復興支援協議会活動報告書 4
 1．</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>２）ＮＰＯからの報告・訂正により、全体会議事録や災害対策本部への実績報告とは誤差がある。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Terence" changedate="20130527T042311Z">
+        <seg>２）ＮＰＯからの報告・訂正により、全体会議事録や災害対策本部への実績報告とは誤差がある。****Depending on reports or amendments from NPOs, the actual numbers reported to "All Organization Conference" and Disaster Response HQ may have some error</seg>
       </tuv>
     </tu>
     <tu>
