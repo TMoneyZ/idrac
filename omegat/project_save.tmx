@@ -235,6 +235,16 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>活動人数、活動内容の推移
+※ＮＰＯによる炊き出し数は、事務局の調整を経て市へ連絡していた炊き出し予定数を元に計上しています。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Terence" changedate="20130528T030826Z">
+        <seg>活動人数、活動内容の推移****Transition in Volunteer Numbers and Activities
+※ＮＰＯによる炊き出し数は、事務局の調整を経て市へ連絡していた炊き出し予定数を元に計上しています。****Emergency meals prepared by NPOs were calculated based on estimated numbers provided to the administrative department</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>災害後の不便で制約の多い環境下に滞在場所や食料など全て「自己完結」で被災地に駆け付けたボランティアの存在は、被災者一人一人があの大震災から一歩を踏み出すための力にもなりました。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Terence" changedate="20130523T160834Z">
