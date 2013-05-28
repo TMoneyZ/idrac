@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>※引用等をご希望の方は発行元へのお問い合わせをお願いいたします。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Terence" changedate="20130528T033236Z">
+        <seg>※引用等をご希望の方は発行元へのお問い合わせをお願いいたします。****Those wising to reproduce the data should request permission from the publishing office</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>■ 炊き出し数の推移
 　炊き出し調整役の不足は他被災地域のＶＣでも課題であり、外部団体に調整役を託した市町ＶＣが多くありました。</seg>
       </tuv>
