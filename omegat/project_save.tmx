@@ -429,6 +429,14 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>（4 月 1 日以前は個別聞き取り等により確認できた提供食数のみを点線表記。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Terence" changedate="20130528T031318Z">
+        <seg>（4 月 1 日以前は個別聞き取り等により確認できた提供食数のみを点線表記。****Before April 1st, only meals confirmed through other gathering means were included</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>２）初期にＶＣ経由でＮＰＯへ派遣された場合にＶＣ活動人数　と重複があったが、可能な範囲で修正。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Terence" changedate="20130527T044141Z">
