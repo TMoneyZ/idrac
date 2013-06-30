@@ -219,6 +219,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="JA">
+        <seg>全体会での報告の他、各団体からの個別報告や、仮設サロン支援連絡会を通じた報告から 1 週間ごとの活動人数を出来る限り正確さを期して集計し、活動規模の大きな分科会のみをグラフ化しました。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Terence" changedate="20130630T004802Z">
+        <seg>全体会での報告の他、各団体からの個別報告や、仮設サロン支援連絡会を通じた報告から 1 週間ごとの活動人数を出来る限り正確さを期して集計し、活動規模の大きな分科会のみをグラフ化しました。The weekly estimate volunteer numbers were accumulated from individual organization's reports and temporary salon conferences during the "All Organization Conference".</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>not sure about this</note>
       <tuv lang="JA">
         <seg>女川町
